@@ -1,11 +1,9 @@
-# Black-Horse
+# Black-Horse (E-Commerce Multi-Vendor)
 ![لا](https://github.com/Hegazy02/Black-Horse/assets/120028585/72dc1b4d-fae5-4514-95e2-011fdf9a08b8)
-# Description 
-##  • Black horse is an e-commerce multi-vendor app 
-# E-Commerce Multi-Vendor Project
+
 
 ## Overview
-This project is an e-commerce platform that connects clients, suppliers, and delivery personnel. It allows vendors to sell their products, clients to browse and purchase items, and delivery personnel to manage deliveries. The system is built using **Flutter** for the mobile apps and a **web-based admin panel** for managing the platform.
+This project is an e-commerce platform that connects clients, suppliers, and delivery personnel. It allows vendors to sell their products, clients to browse and purchase items, and delivery personnel to manage deliveries. The system is built using **Flutter** for the mobile apps and the **web-based admin panel** for managing the platform.
 
 ## Apps Overview
 
@@ -26,7 +24,9 @@ The **Supplier App** empowers vendors to manage their inventory, update product 
 
 - **Product Management**: Suppliers can add new products, update prices, and manage stock.
 - **Order Fulfillment**: Suppliers receive order notifications and mark orders as fulfilled.
-- **Inventory Tracking**: Real-time inventory status and alerts for low stock.
+- **Grouping**: Suppliers receive group of orders that achieve minimum order price as a one order with details for each order.
+- **Group Fulfillment**: Suppliers receive group of orders notifications and mark the group as fulfilled.
+- **Reports**: Supplier can observe his orders statistics ,fines and balance sheet.
 - **Supplier Authentication**: Secure login for suppliers.
 
 #### Screenshots
@@ -38,7 +38,6 @@ The **Delivery App** is designed for delivery personnel to handle order deliveri
 
 - **Delivery Assignments**: Delivery personnel receive order assignments and route details.
 - **Delivery Status Updates**: Real-time tracking of delivery progress.
-- **Proof of Delivery**: Capture signatures or photos upon successful delivery.
 - **Authentication**: Secure login for delivery personnel.
 
 #### Screenshots
@@ -49,7 +48,7 @@ The **Delivery App** is designed for delivery personnel to handle order deliveri
 The **Web Admin Panel** serves as the control center for managing the entire platform. Admins can perform the following tasks:
 
 - **User Management**: Add, edit, or deactivate user accounts (clients, suppliers, and delivery personnel).
-- **Product Management**: Review and approve new products, manage categories, and set pricing rules.
+- **Product Management**: add products description,categories,delivery regions,etc.
 - **Order Management**: Monitor orders, handle disputes, and track deliveries.
 - **Analytics and Reports**: View sales data, user activity, and performance metrics.
 
