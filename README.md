@@ -15,9 +15,13 @@ The **Client App** provides a user-friendly interface for customers to explore p
 - **User Authentication**: Secure login and registration for clients.
 - **Notifications**: Real-time notifications for order updates.
 
+
+<!-- 
 #### Screenshots
 !Client App Screenshot 1
 !Client App Screenshot 2
+-->
+
 
 ### 2. Supplier App
 The **Supplier App** empowers vendors to manage their inventory, update product details, and fulfill orders. Features include:
@@ -29,9 +33,11 @@ The **Supplier App** empowers vendors to manage their inventory, update product 
 - **Reports**: Supplier can observe his orders statistics ,fines and balance sheet.
 - **Supplier Authentication**: Secure login for suppliers.
 
+<!-- 
 #### Screenshots
-!Supplier App Screenshot 1
-!Supplier App Screenshot 2
+!Client App Screenshot 1
+!Client App Screenshot 2
+-->
 
 ### 3. Delivery App
 The **Delivery App** is designed for delivery personnel to handle order deliveries efficiently. Features include:
@@ -40,9 +46,11 @@ The **Delivery App** is designed for delivery personnel to handle order deliveri
 - **Delivery Status Updates**: Real-time tracking of delivery progress.
 - **Authentication**: Secure login for delivery personnel.
 
+<!-- 
 #### Screenshots
-!Delivery App Screenshot 1
-!Delivery App Screenshot 2
+!Client App Screenshot 1
+!Client App Screenshot 2
+-->
 
 ## Web Admin Panel
 The **Web Admin Panel** serves as the control center for managing the entire platform. Admins can perform the following tasks:
@@ -52,8 +60,11 @@ The **Web Admin Panel** serves as the control center for managing the entire pla
 - **Order Management**: Monitor orders, handle disputes, and track deliveries.
 - **Analytics and Reports**: View sales data, user activity, and performance metrics.
 
-#### Screenshot
-!Admin Panel Screenshot
+<!-- 
+#### Screenshots
+!Client App Screenshot 1
+!Client App Screenshot 2
+-->
 
 #### Used Packages
 Here are the essential packages utilized in this project:
