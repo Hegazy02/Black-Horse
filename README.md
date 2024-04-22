@@ -16,11 +16,8 @@ The **Client App** provides a user-friendly interface for customers to explore p
 - **Notifications**: Real-time notifications for order updates.
 
 
-<!-- 
-#### Screenshots
-!Client App Screenshot 1
-!Client App Screenshot 2
--->
+
+![Black_horse_client](https://github.com/Hegazy02/Black-Horse/assets/120028585/a141172b-5704-46d2-ac7f-a1c232cda1df)
 
 
 ### 2. Supplier App
