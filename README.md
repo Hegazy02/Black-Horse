@@ -33,11 +33,8 @@ The **Supplier App** empowers vendors to manage their inventory, update product 
 - **Reports**: Supplier can observe his orders statistics ,fines and balance sheet.
 - **Supplier Authentication**: Secure login for suppliers.
 
-<!-- 
-#### Screenshots
-!Client App Screenshot 1
-!Client App Screenshot 2
--->
+
+![black_horse_supplier](https://github.com/Hegazy02/Black-Horse/assets/120028585/713ee03f-6d50-47d1-bd06-4d49c1855d26)
 
 ### 3. Delivery App
 The **Delivery App** is designed for delivery personnel to handle order deliveries efficiently. Features include:
